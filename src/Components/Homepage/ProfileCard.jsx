@@ -10,7 +10,7 @@ const ProfileCard = () => {
             <div className="card">
               <img src={profilePic} className="card-img-top" alt="User Profile" title='User Profile' />
               <div className="card-body">
-                <h5 className="card-title">Name : Bobita Khan</h5>
+                <h5 className="card-title">Name : Alex</h5>
                 <p className="card-text">Role: Frontend Developer</p>
               </div>
             </div>
